@@ -1,0 +1,31 @@
+{
+  "name": "desired-capabilities",
+  "version": "1.0.0",
+  "description": "utilities for parsing shorthand Selenium capabilities objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnbot/desired-capabilities"
+  },
+  "keywords": [
+    "selenium",
+    "wd",
+    "browser",
+    "testing"
+  ],
+  "author": "Shawn Allen",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/shawnbot/desired-capabilities/issues"
+  },
+  "homepage": "https://github.com/shawnbot/desired-capabilities",
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
