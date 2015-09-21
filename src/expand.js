@@ -26,8 +26,9 @@ function expandVersions(versions) {
     if (v.indexOf(DOTS) > -1) {
       var versions = expandRange(v);
       return list.concat(versions);
+    } else {
+      list.push(v);
     }
-    list.push(v);
     return list;
   }, []);
 }
