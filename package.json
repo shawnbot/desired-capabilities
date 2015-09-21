@@ -1,6 +1,6 @@
 {
   "name": "desired-capabilities",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "utilities for parsing shorthand Selenium capabilities objects",
   "main": "index.js",
   "scripts": {
