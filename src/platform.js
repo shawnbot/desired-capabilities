@@ -4,7 +4,7 @@ const ALIASES = {
   'xp':     'Windows XP',
   'win7':   'Windows 7',
   'win8':   'Windows 8',
-  'win19':  'Windows 10',
+  'win10':  'Windows 10',
   // TODO: add OS X shorthands
 };
 
